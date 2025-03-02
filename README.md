@@ -1,6 +1,6 @@
 🍁 Introduction
 
-Howdy, I'm Siraphat Nu-urai. You can call me Zatin. I am currently a 3rd year Applied Mathematics student at King Mongkut’s Institute of Technology Ladkrabang (KMITL) in Bangkok, Thailand. In the future, I aim to become a data scientist in Thailand. I live by the principle: 'If you cannot do great things, do small things in a great way.'
+Howdy! I'm Siraphat Nu-urai, but you can call me Zatin. I am currently a third-year Applied Mathematics student at King Mongkut’s Institute of Technology Ladkrabang (KMITL) in Bangkok, Thailand. In the future, I aim to become a data scientist in Thailand. I live by the principle: 'If you cannot do great things, do small things in a great way.'
 
 
 🛹Data Science & Technical Skills
