@@ -10,5 +10,5 @@ Howdy Y'all! I’m Siraphat Nu-urai, also known as Zatin, a third-year Applied M
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, ggplot2 and Streamlit
 - Database: MySQL and PostgreSQL
 - Data Visualization: PowerBI
-- Machine Learning and Deep Learning Techniques: Regression, Classification, Clustering and Neural Networks
+- Machine Learning and Deep Learning Techniques: Supervised/Unsupervised Learning, Regression, Classification, Clustering and Neural Networks
 - Tools: Visual Studio Code (VS Code), Jupyter Notebook, Google Colab and Rapid Minor
