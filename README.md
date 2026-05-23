@@ -12,4 +12,4 @@ I am proactive, adaptive, and eager to apply my skills to solve complex, real-wo
 
 📬 **Connect with me:**
 - **Email:** siraphat.nuurai@gmail.com
-- **GitHub:** Siraphat Nu-urai
+- **LinkedIn:** Siraphat Nu-urai
